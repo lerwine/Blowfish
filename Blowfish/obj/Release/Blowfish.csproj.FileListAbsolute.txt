@@ -1,0 +1,10 @@
+C:\Documents and Settings\Lenny\Local Settings\Application Data\Temporary Projects\Blowfish\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lenny\Local Settings\Application Data\Temporary Projects\Blowfish\bin\Release\Blowfish.dll
+C:\Documents and Settings\Lenny\Local Settings\Application Data\Temporary Projects\Blowfish\bin\Release\Blowfish.pdb
+C:\Documents and Settings\Lenny\Local Settings\Application Data\Temporary Projects\Blowfish\obj\Release\Blowfish.dll
+C:\Documents and Settings\Lenny\Local Settings\Application Data\Temporary Projects\Blowfish\obj\Release\Blowfish.pdb
+C:\Documents and Settings\Lenny\My Documents\Visual Studio 2008\Projects\Blowfish\Blowfish\bin\Release\Blowfish.dll
+C:\Documents and Settings\Lenny\My Documents\Visual Studio 2008\Projects\Blowfish\Blowfish\bin\Release\Blowfish.pdb
+C:\Documents and Settings\Lenny\My Documents\Visual Studio 2008\Projects\Blowfish\Blowfish\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lenny\My Documents\Visual Studio 2008\Projects\Blowfish\Blowfish\obj\Release\Blowfish.dll
+C:\Documents and Settings\Lenny\My Documents\Visual Studio 2008\Projects\Blowfish\Blowfish\obj\Release\Blowfish.pdb
