@@ -1,0 +1,27 @@
+JavaScript:
+Include code for root.js and blowfish.js in your HTML source code.
+
+Use the following lines to initialize the blowfish object:
+	var blowfish = new com.oclib.javascript.security.encryption.Blowfish();
+	blowfish.setLongChar(true);
+	blowfish.init("thepassword");
+To encrypt, use:
+	blowfish.encrypt("text to encrypt");
+To decrypt, use:
+	blowfish.decrypt("text to decrypt");
+	
+C#
+The namespace for this class is System.Security.Cryptography
+
+Use the following lines to initialize the blowfish object:
+    Blowfish blowfish = new Blowfish();
+    blowfish.SetLongChar(true);
+    blowfish.Init("thepassword");
+To encrypt, use
+    blowfish.Encrypt("text to encrypt");
+To decrypt, use:
+	blowfish.Decrypt("text to decrypt");
+To get javascript code necessary for client-side decryption:
+	System.Security.Cryptography.Blowfish.GetRootJsCode();
+	System.Security.Cryptography.Blowfish.GetBlowfishJsCode();
+You may also just copy the 2 javascript files from the Blowfish project into your own project or website.
